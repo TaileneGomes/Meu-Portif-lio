@@ -14,7 +14,7 @@
     padding-bottom: 20px;
     text-transform: uppercase;
     font-weight: 700;
-    color: white;
+    color: rgb(231, 237, 243);
 }
 
 .titulosVerdes {
@@ -23,7 +23,7 @@
     padding-bottom: 20px;
     text-transform: uppercase;
     font-weight: 700;
-    color: #18bc9c
+    color: #052e26
 }
 
 .paragrafoBrancos {
@@ -44,7 +44,7 @@ p {
 }
 
 .corPrimaria {
-    background-color: #18bc9c;
+    background-color: #052e26;
 }
 
 .itemMenu {
